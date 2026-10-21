@@ -1,4 +1,4 @@
-- Hi, I’m @Bizzle007
+- Hi, I’m Aryan Rahi
 - I’m currently learning ML and AI
 - I’m looking to collaborate on Python and Data Anlaytic Project
 - You can reach me on gmail - aryanrahi.ar@gmail.com
